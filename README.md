@@ -1,3 +1,1 @@
-# Ansible_training
-MODIFICATION 1
-MODIFICATION 2
+# This git repository will serve as a hub station for all the Bash script I am developping as a training session 
